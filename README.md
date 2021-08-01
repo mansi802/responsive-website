@@ -1,4 +1,4 @@
-# responsiveWebsite-Clone
+# responsive-website
 A clone of simple website made using HTML , CSS , BOOTSTRAP . 
 # Visit The website 
 https://responsivesite-3p34g81pp7kklkja43b.web.codequotient.com
